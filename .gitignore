@@ -8,3 +8,4 @@ slprj/
 *.slxc
 __pycache__/
 .venv/
+docs/meetings/2026-11-17-transcript.txt

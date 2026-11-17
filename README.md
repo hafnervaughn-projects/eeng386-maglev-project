@@ -12,6 +12,7 @@ Our project connects maglev trains to electromagnetics through a quantitative an
 - [Technical plan](docs/TECHNICAL_PLAN.md) — proposed scope and analysis outputs.
 - [Canvas requirements](PROJECT_REQUIREMENTS.md) — deadlines, rubric, roster, and instructor links.
 - [Research leads from the shared document](docs/RESEARCH.md) — sources to read and verify.
+- [November 17 meeting summary](docs/meetings/2026-11-17.md) — decisions, options, and open actions from the transcript.
 
 ## What we need to deliver
 
