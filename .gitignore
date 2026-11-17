@@ -1,0 +1,10 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+~$*
+*.asv
+*.autosave
+slprj/
+*.slxc
+__pycache__/
+.venv/
