@@ -1,5 +1,7 @@
 # Research leads from the shared document
 
+For sources actually checked on November 19 and a usable analysis starting point, see [LIFT_RESEARCH.md](LIFT_RESEARCH.md) and [the worked model](../analysis/LIFT_MODEL.md). The older list below remains a set of leads, not a claim that every link was verified.
+
 Transcribed from the team's live Word document on November 17, 2026. Titles/years below follow the team's notes and have **not** been independently checked. Read sources and verify metadata, applicability, and parameters before citing them in slides.
 
 ## Modeling

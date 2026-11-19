@@ -6,6 +6,9 @@ Our project connects maglev trains to electromagnetics through a quantitative an
 
 ## Start here
 
+- [Verified lift research](docs/LIFT_RESEARCH.md) and [worked two-gap model](analysis/LIFT_MODEL.md) — November 19 background work, with illustrative calculations.
+- [Team PowerPoint](https://mines0-my.sharepoint.com/:p:/r/personal/brayden_cunliffe_mines_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB1DD9813-66B8-4B72-843E-9FFA044D7EF9%7D&file=EMag%20Levtrain%20Project.pptx&fromShare=true&action=edit&mobileredirect=true) — school access may be required; not edited or reviewed in this research pass.
+
 - [Live team Word document](https://mines0-my.sharepoint.com/:w:/r/personal/brayden_cunliffe_mines_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4AD69BE7-680E-4734-990A-81C14810C950%7D&file=EMAG%20Project.docx&fromShare=true&action=default&mobileredirect=true) — shared brainstorming, research, and meeting notes; school access may be required.
 - [Project checklist](docs/CHECKLIST.md) — tasks and proposed internal deadlines.
 - [Team roles](docs/TEAM.md) — eight work areas; owners are unassigned.
