@@ -42,4 +42,4 @@ For code changes, create a branch, commit the change, and open a pull request fo
 | `figures/` | Labeled plots and diagrams for slides |
 | `slides/` | Presentation source and final PDF |
 
-The plan is a starting point, not a completed analysis. No simulations or numerical results have been produced yet. Keep sourced train specifications separate from illustrative model assumptions.
+The plan is a starting point. An [illustrative MATLAB parameter sweep](matlab/lift_sweep.m) is available with a [parameter worksheet](analysis/PARAMETERS.md). Keep sourced train specifications separate from illustrative model assumptions; these results do not validate a real train.
